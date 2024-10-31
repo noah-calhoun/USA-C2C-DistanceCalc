@@ -1,0 +1,19 @@
+2024-10-31 00:36:48: Loading county distances...
+2024-10-31 00:36:58: Loaded 10,371,620 county distance records
+2024-10-31 00:36:58: 
+Loading and processing COUNTY_ZIP data...
+2024-10-31 00:37:15: 
+Found 29,383 unique cities
+2024-10-31 00:37:15: Creating county distance lookup...
+2024-10-31 00:42:33: Created lookup for 10,371,620 county pairs
+2024-10-31 00:46:48: 
+Matrix population completed successfully!
+2024-10-31 00:46:55: 
+Coverage Statistics:
+2024-10-31 00:46:55: Total unique cities: 29,383
+2024-10-31 00:46:55: Total counties: 3,139
+2024-10-31 00:46:55: Total city pairs with distances: 853,985,743
+2024-10-31 00:46:55: Matrix size: (29383, 29383)
+2024-10-31 00:47:03: Matrix saved to city_distances.pkl
+2024-10-31 00:47:03: 
+Process completed successfully in 0.2 hours
